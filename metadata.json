@@ -1,0 +1,5 @@
+{
+  "name": "nexu.io",
+  "description": "A starter template for building GenAI applications with SQLite and Express.",
+  "requestFramePermissions": []
+}
